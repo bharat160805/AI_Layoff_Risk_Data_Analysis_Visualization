@@ -319,7 +319,7 @@ AI-Layoff-Risk-Data-Analysis/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/AI-Layoff-Risk-Data-Analysis.git
+git clone https://github.com/bharat160805/AI-Layoff-Risk-Data-Analysis.git
 ```
 
 ### 2. Navigate to the project
